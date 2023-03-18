@@ -1,4 +1,4 @@
-# hidden-search
+# Hidden Search
 ![](images/hidden-search.JPG)
 <p align="center">
     <a href="https//www.mia-hidden-search.netlify.app">Live Demo</a>
