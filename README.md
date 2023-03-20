@@ -1,7 +1,7 @@
 # Hidden Search
 ![](images/hidden-search.JPG)
 <p align="center">
-    <a href="https//www.mia-hidden-search.netlify.app">Live Demo</a>
+    <a href="https://mia-hidden-search.netlify.app/">Live Demo</a>
 </p>
 
 [50days50projects](https://github.com/bradtraversy/50projects50days)第四天的练习：Hidden Search
